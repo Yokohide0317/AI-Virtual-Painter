@@ -1,0 +1,3 @@
+mediapipe=3.10.9
+opencv-python
+numpy
